@@ -1,5 +1,5 @@
 # Hey There!, I'm Jerin, a Web Developer 👋🏼:
-Currently I'm at my learning phrase & making little projects<br>👨🏼‍🎓 studying computer science<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>Web Dev</i>
+Currently I'm at my learning phrase & making little projects<br>👩‍🎓 studying computer science<br>👩‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>Web Dev</i>
 
 
 # 💻 Tech Stack:
