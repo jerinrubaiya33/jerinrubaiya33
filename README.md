@@ -63,7 +63,7 @@
 
 ---
 
-### 🖥️ IDEs & OS  
+### IDEs & OS  
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
